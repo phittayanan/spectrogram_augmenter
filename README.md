@@ -6,3 +6,4 @@ conda activate dsi200_demo
 conda deactivate dsi200_demo
 
 ```
+``` pip install jupyterlab ```
